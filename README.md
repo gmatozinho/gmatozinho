@@ -20,7 +20,7 @@
 
 <br>
 
-  <a href="www.linkedin.com/in/gmatozinho">
+  <a href="https://www.linkedin.com/in/gmatozinho">
     <img align="left" alt="Gustavo Matozinho | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/g_matozinho">
